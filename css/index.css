@@ -66,7 +66,7 @@ p {
 }
 
 .container img {
-  max-width: 15vh;
+  max-width: 10h;
   margin-right: 2.5vh;
   margin-left: 2.5vh;
   margin-bottom: auto;
@@ -325,7 +325,7 @@ img {
 }
 
 .container img {
-    max-width: 30vh;
+    max-width: 25vh;
     margin-right: 10vh;
     margin-left: 10vh;
     margin-bottom: auto;
